@@ -22,13 +22,17 @@ function EditPhoto({ children }) {
     //  dispatch(editPhoto(idUser, formData, setEdit, handleClose));
 
     axios
-      .put("http://localhost:3200/users/profile/image", formData, {
-        headers: {
-          Authorization: `Bearer ${token}`,
-          "Content-Type": "multipart/form-data",
-          "Content-Type": "application/json",
-        },
-      })
+      .put(
+        process.env.REACT_APP_API_BACKEND + "/users/profile/image",
+        formData,
+        {
+          headers: {
+            Authorization: `Bearer ${token}`,
+            "Content-Type": "multipart/form-data",
+            "Content-Type": "application/json",
+          },
+        }
+      )
       .then((res) => {
         console.log(res);
         alert("photo update");
