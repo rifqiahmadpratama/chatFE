@@ -8,7 +8,7 @@ export const postSignUpUser = createAsyncThunk(
   async (dataUser) => {
     try {
       const response = await axios.post(
-        "http://localhost:3200/users/register",
+        process.env.REACT_APP_API_BACKEND + "/users/register",
         JSON.stringify(dataUser),
         {
           headers: {

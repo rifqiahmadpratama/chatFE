@@ -8,7 +8,7 @@ export const postSignIn = createAsyncThunk(
   async (data) => {
     try {
       const response = await axios.post(
-        "http://localhost:3200/users/login",
+        process.env.REACT_APP_API_BACKEND + "/users/login",
         JSON.stringify(data),
         {
           headers: {
