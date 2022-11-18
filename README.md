@@ -102,8 +102,8 @@ Make sure that Node JS is installed on the computer.
 <p align="center" display=flex>
 <table>
   <tr>
-    <td><image src="https://user-images.githubusercontent.com/72550248/202629132-9a549d7b-777b-4879-86a6-3a10652b84c3.png" alt="Register Page" width=100%></td>
-    <td><image src="https://user-images.githubusercontent.com/72550248/202629320-e74b2f0e-742b-47a3-874e-7b8923e88da0.png" alt="Login Page" width=100%/></td>
+    <td><image src="https://user-images.githubusercontent.com/72550248/202629132-9a549d7b-777b-4879-86a6-3a10652b84c3.png" alt="Home Page" width=100%></td>
+    <td><image src="https://user-images.githubusercontent.com/72550248/202629320-e74b2f0e-742b-47a3-874e-7b8923e88da0.png" alt="Sebelum Login" width=100%/></td>
   </tr>
    <tr>
     <td>Register Page</td>
@@ -111,8 +111,8 @@ Make sure that Node JS is installed on the computer.
   </tr>
   
   <tr>
-    <td><image src="https://user-images.githubusercontent.com/72550248/202629380-ec974d1d-a144-45e4-b94e-289fb91ffbb4.png" alt="Home Page" width=100% ></td>
-    <td><image src="https://user-images.githubusercontent.com/72550248/202629431-ac117a0a-99c0-4b03-adb0-e4941d40b9d0.png" alt="Search Flight from Home" width=100%/></td>
+    <td><image src="https://user-images.githubusercontent.com/72550248/202629380-ec974d1d-a144-45e4-b94e-289fb91ffbb4.png" alt="Login Page" width=100% ></td>
+    <td><image src="https://user-images.githubusercontent.com/72550248/202629431-ac117a0a-99c0-4b03-adb0-e4941d40b9d0.png" alt="Chat Page" width=100%/></td>
   </tr>
  
 </table>
