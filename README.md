@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <div align="center">
   <a href="https://github.com/rifqiahmadpratama/chatFE">
-    <img src="https://camo.githubusercontent.com/6a3531baa42980849735e81a94023be676b1a62b5371fd1e3a4561bf9df13d19/68747470733a2f2f692e6962622e636f2f436e59535179382f696c6c757374726174696f6e2e706e67" alt="Logo" width="200px">
+    <img src="https://user-images.githubusercontent.com/72550248/202629132-9a549d7b-777b-4879-86a6-3a10652b84c3.png" alt="Logo" width="200px">
   </a>
   
   <h3 align="center">Chat Online Frontend with React.js</h3>
