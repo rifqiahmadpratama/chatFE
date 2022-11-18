@@ -6,7 +6,7 @@
     <img src="https://camo.githubusercontent.com/6a3531baa42980849735e81a94023be676b1a62b5371fd1e3a4561bf9df13d19/68747470733a2f2f692e6962622e636f2f436e59535179382f696c6c757374726174696f6e2e706e67" alt="Logo" width="200px">
   </a>
   
-  <h3 align="center">Angkasa Ticketing Frontend with React.js</h3>
+  <h3 align="center">Chat Online Frontend with React.js</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -38,7 +38,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Angkasa Ticketing is an online ticket booking application. This application is intended for users who want to travel both nationally and internationally, using airplanes.
+Chat Online adalah aplikasi untuk membantu seseorang untuk melakukan komunikasi dengan lawan bicara dengan jarak jauh.
 
 ### Built With
 This application was developed using a framework/library
@@ -62,13 +62,13 @@ This application was developed using a framework/library
 
 ### Installation
 1. Get a free API Key at [https://github.com/rifqiahmadpratama/chatBE](https://github.com/rifqiahmadpratama/chatBE)
-2. Clone this repo (Angkasa-Ticketing-Frontend)
+2. Clone this repo (Chat-Online-Frontend)
    ```sh
    git clone https://github.com/rifqiahmadpratama/chatFE.git
    ```
 3. Go To Folder Repo
     ```sh
-    cd Angkasa-Ticketing-Frontend
+    cd Chat-Online-Frontend
     ```
 4. Install NPM packages
    ```sh
@@ -86,7 +86,7 @@ This application was developed using a framework/library
 
 <!-- Related Project -->
 ## Related Project
-:rocket: [`Angkasa Ticketing Backend`](https://github.com/rifqiahmadpratama/chatBE)
+:rocket: [`Chat Online Backend`](https://github.com/rifqiahmadpratama/chatBE)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Screenshoots -->
@@ -140,19 +140,7 @@ This application was developed using a framework/library
 
 <!-- CONTRIBUTING -->
 
-## Contributing
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-1. Fork the Project
-2. Create your Feature Branch `git checkout -b feature/Angkasa-feature`
-3. Commit your Changes `git commit -m 'Add some Angkasa-feature'`
-4. Push to the Branch `git push origin feature/Angkasa-feature`
-5. Open a Pull Request
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## License
 Distributed under the [MIT](/LICENSE) License.
