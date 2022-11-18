@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 <div align="center">
-  <a href="https://github.com/rifqiay/Angkasa-Ticketing-Frontend">
+  <a href="https://github.com/rifqiahmadpratama/chatFE">
     <img src="https://camo.githubusercontent.com/6a3531baa42980849735e81a94023be676b1a62b5371fd1e3a4561bf9df13d19/68747470733a2f2f692e6962622e636f2f436e59535179382f696c6c757374726174696f6e2e706e67" alt="Logo" width="200px">
   </a>
   
@@ -61,10 +61,10 @@ This application was developed using a framework/library
 
 
 ### Installation
-1. Get a free API Key at [https://github.com/rifqiay/Angkasa-Ticketing-Backend](https://github.com/rifqiay/Angkasa-Ticketing-Backend)
+1. Get a free API Key at [https://github.com/rifqiahmadpratama/chatBE](https://github.com/rifqiahmadpratama/chatBE)
 2. Clone this repo (Angkasa-Ticketing-Frontend)
    ```sh
-   git clone https://github.com/rifqiay/Angkasa-Ticketing-Frontend.git
+   git clone https://github.com/rifqiahmadpratama/chatFE.git
    ```
 3. Go To Folder Repo
     ```sh
@@ -86,7 +86,7 @@ This application was developed using a framework/library
 
 <!-- Related Project -->
 ## Related Project
-:rocket: [`Angkasa Ticketing Backend`](https://github.com/rifqiay/Angkasa-Ticketing-Backend)
+:rocket: [`Angkasa Ticketing Backend`](https://github.com/rifqiahmadpratama/chatBE)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Screenshoots -->
@@ -151,50 +151,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Our Team
-<center>
-  <table>
-    <tr>
-      <th>Frontend/PM</th>
-      <th>Frontend</th>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Backend</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/rifqiay">
-          <img width="150" style="background-size: contain;" src="https://user-images.githubusercontent.com/110190301/196643765-76cc4a04-6323-465c-bfb6-5bdb54e72a44.jpg" alt="Rifqi Ainul Yaqin"><br/>
-          <b>Rifqi Ainul Yaqin</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/rifqiahmadpratama">
-          <img width="150" src="https://user-images.githubusercontent.com/110190301/196643825-5131ef0d-478d-4246-8e63-25276572768c.jpg" alt="Rifqi Ahmad Pratama"><br/>
-          <b>Rifqi Ahmad Pratama</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/bagus25dzikri06">
-          <img width="150" src="https://user-images.githubusercontent.com/110190301/196643860-9204dde4-b6ff-4fe2-94ec-69069b1abfe7.jpg" alt="Bagus Dzikri Hidayat"><br/>
-          <b>Bagus Dzikri Hidayat</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/chlasswg26">
-          <img width="150" src="https://user-images.githubusercontent.com/110190301/196643896-142e3693-9170-4aa3-953b-9f37bd435462.jpg" alt="Ichlas Wardy Gustama"><br/>
-          <b>Ichlas Wardy Gustama</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Hnaa17">
-          <img width="150" src="https://user-images.githubusercontent.com/110190301/196643920-62360198-7d21-44c2-bbfa-45dddf983f55.jpg" alt="Farhana Achmad "><br/>
-          <b>Farhana Achmad </b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</center>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## License
