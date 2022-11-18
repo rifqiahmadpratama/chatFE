@@ -102,8 +102,8 @@ Make sure that Node JS is installed on the computer.
 <p align="center" display=flex>
 <table>
   <tr>
-    <td><image src="https://user-images.githubusercontent.com/110190301/197247869-2ab40d4d-fd1f-447f-b97c-60ca72e6cde5.jpeg" alt="Register Page" width=100%></td>
-    <td><image src="https://user-images.githubusercontent.com/110190301/197247887-811b8287-723d-4de2-b1dd-d0de68f708ec.jpeg" alt="Login Page" width=100%/></td>
+    <td><image src="https://user-images.githubusercontent.com/72550248/202629132-9a549d7b-777b-4879-86a6-3a10652b84c3.png" alt="Register Page" width=100%></td>
+    <td><image src="https://user-images.githubusercontent.com/72550248/202629320-e74b2f0e-742b-47a3-874e-7b8923e88da0.png" alt="Login Page" width=100%/></td>
   </tr>
    <tr>
     <td>Register Page</td>
@@ -111,37 +111,10 @@ Make sure that Node JS is installed on the computer.
   </tr>
   
   <tr>
-    <td><image src="https://user-images.githubusercontent.com/110190301/197247920-2cc0928b-3d94-4809-ae39-ba1b5e9171b8.jpeg" alt="Home Page" width=100% ></td>
-    <td><image src="https://user-images.githubusercontent.com/110190301/197247982-8d6b42b8-27fd-4c69-a8ad-237a5147608f.jpeg" alt="Search Flight from Home" width=100%/></td>
+    <td><image src="https://user-images.githubusercontent.com/72550248/202629380-ec974d1d-a144-45e4-b94e-289fb91ffbb4.png" alt="Home Page" width=100% ></td>
+    <td><image src="https://user-images.githubusercontent.com/72550248/202629431-ac117a0a-99c0-4b03-adb0-e4941d40b9d0.png" alt="Search Flight from Home" width=100%/></td>
   </tr>
-  <tr>
-    <td>Home Page</td>
-    <td>Search Flight from Home</td>
-  </tr>
-  <tr>
-    <td><image src="https://user-images.githubusercontent.com/110190301/197248088-7a654601-386a-4db9-8f1c-6383ec2d29d4.jpeg" alt="Search Flight" width=100%/></td>
-    <td><image src="https://user-images.githubusercontent.com/110190301/197248124-63d3fa5e-52f6-4325-b648-764a78dc68e2.jpeg" alt="Flight detail" width=100%></td>
-  </tr>
-  <tr>
-     <td>Search Flight</td>
-     <td>Flight Detail</td>
-  </tr>
-  
-  <tr>
-    <td><image src="https://user-images.githubusercontent.com/110190301/197248165-b1c9916c-6014-48bc-a64c-086ac08b83a8.jpeg" alt="My booking flight" width=100%></td>
-    <td><image src="https://user-images.githubusercontent.com/110190301/197248206-9ca03fbe-c065-43cf-a903-a4a89111ea4d.jpeg" alt="Profile" width=100%></td>
-  </tr>
-  <tr>
-    <td>My Booking Flight</td>
-    <td>Profile</td>
-  </tr>
-  
-  <tr>
-    <td><image src="https://user-images.githubusercontent.com/110190301/197248237-d8423350-8f54-4274-bc67-c1d99592f489.jpeg" alt="Booking detail" width=100%></td>
-  </tr>
-  <tr>
-    <td>Booking Detail</td>
-  </tr>
+ 
 </table>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
