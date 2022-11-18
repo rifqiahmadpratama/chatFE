@@ -12,6 +12,7 @@
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
+<<<<<<< HEAD
 
 <details>
   <summary>Table of Contents</summary>
@@ -47,6 +48,38 @@ Chat Online adalah aplikasi untuk membantu seseorang untuk melakukan komunikasi 
 
 This application was developed using a framework/library
 
+=======
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+       <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+       <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#related-project">Related Project</a></li>
+    <li><a href="#screenshoots">Screenshot</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#our-team">Our Team</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+Chat Online adalah aplikasi untuk membantu seseorang untuk melakukan komunikasi dengan lawan bicara dengan jarak jauh.
+
+### Built With
+This application was developed using a framework/library
+>>>>>>> 98d474c7ade26ebc9c846f3abaad36d5374ad82f
 - [React Js](https://reactjs.org/)
 - [Javascript](https://www.javascript.com/)
 - [Axios](https://axios-http.com/)
@@ -54,33 +87,52 @@ This application was developed using a framework/library
 - [Bootstap](https://getbootstrap.com)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 98d474c7ade26ebc9c846f3abaad36d5374ad82f
 <!-- GETTING STARTED -->
 
 ## Getting Started
 
 ### Prerequisites
 
+<<<<<<< HEAD
 Make sure that Node JS is installed on the computer.
 
 - [Node.Js](https://nodejs.org/en/download/)
 
 ### Installation
 
+=======
+ Make sure that Node JS is installed on the computer.
+* [Node.Js](https://nodejs.org/en/download/)
+
+
+### Installation
+>>>>>>> 98d474c7ade26ebc9c846f3abaad36d5374ad82f
 1. Get a free API Key at [https://github.com/rifqiahmadpratama/chatBE](https://github.com/rifqiahmadpratama/chatBE)
 2. Clone this repo (Chat-Online-Frontend)
    ```sh
    git clone https://github.com/rifqiahmadpratama/chatFE.git
    ```
 3. Go To Folder Repo
+<<<<<<< HEAD
    ```sh
    cd Chat-Online-Frontend
    ```
+=======
+    ```sh
+    cd Chat-Online-Frontend
+    ```
+>>>>>>> 98d474c7ade26ebc9c846f3abaad36d5374ad82f
 4. Install NPM packages
    ```sh
    npm install
    ```
 5. Enter your API in `.env`
    ```js
+<<<<<<< HEAD
    REACT_API_BACKEND = "ENTER YOUR API";
    ```
 6. Start website
@@ -99,6 +151,23 @@ Make sure that Node JS is installed on the computer.
 
 ## Screenshoots
 
+=======
+   REACT_API_BACKEND = 'ENTER YOUR API'
+   ```
+6. Start website
+    ```sh
+    npm start
+    ```
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- Related Project -->
+## Related Project
+:rocket: [`Chat Online Backend`](https://github.com/rifqiahmadpratama/chatBE)
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- Screenshoots -->
+## Screenshoots
+>>>>>>> 98d474c7ade26ebc9c846f3abaad36d5374ad82f
 <p align="center" display=flex>
 <table>
   <tr>
@@ -148,8 +217,15 @@ Make sure that Node JS is installed on the computer.
 
 <!-- CONTRIBUTING -->
 
+<<<<<<< HEAD
 ## License
 
 Distributed under the [MIT](/LICENSE) License.
 
+=======
+
+
+## License
+Distributed under the [MIT](/LICENSE) License.
+>>>>>>> 98d474c7ade26ebc9c846f3abaad36d5374ad82f
 <p align="right">(<a href="#top">back to top</a>)</p>
